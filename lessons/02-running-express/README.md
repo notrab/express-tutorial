@@ -33,4 +33,4 @@ Express is running locally and listening for requests 💯! Next we'll define a 
 
 ---
 
-[Next: Defining a route](../lessons/03-defining-a-route)
+[Next: Defining a route](../03-defining-a-route)

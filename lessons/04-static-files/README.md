@@ -38,4 +38,4 @@ Now anything inside `/public` will be accessible at [`http://localhost:3000/asse
 
 ---
 
-<!-- [Next: Middleware](../lessons/05-middleware) -->
+<!-- [Next: Middleware](../05-middleware) -->

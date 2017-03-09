@@ -22,4 +22,4 @@ node index.js
 
 ---
 
-[Next: Static files](../lessons/04-static-files)
+[Next: Static files](../04-static-files)

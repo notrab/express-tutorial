@@ -10,7 +10,7 @@ In this example we are going to use the `path` module. At the top of `index.js`,
 const path = require('path')
 ```
 
-Now let's mount static files at the root of our domain.
+Now let's mount static files at the root of our app.
 
 ```javascript
 app.use(express.static(path.join(__dirname, 'public')))

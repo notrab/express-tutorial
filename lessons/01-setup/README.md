@@ -1,6 +1,6 @@
 # Creating a new Project
 
-Using the commands below, we're going to create a project named `express-tutorial` (you can name it whatever you like) and change directory into that folder.
+Using the commands below, we're going to create a project named `express-tutorial` *(you can name it whatever you like)* and `cd` to that location.
 
 ```bash
 mkdir express-tutorial

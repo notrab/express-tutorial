@@ -2,9 +2,9 @@
 
 Routes allow us to define a response when a request is made.
 
-Let's go ahead and define a route at the root of our app.
+Let's go ahead and define a route at the root of our app to respond with `Hello world!`.
 
-When a request is made to `/` we will send the response `Hello world!`. Copy the code below to the `index.js` file above the `app.listen` declaration.
+Copy the code below to the `index.js` file above the `app.listen` declaration.
 
 ```javascript
 app.use('/', (req, res) => {
@@ -18,8 +18,8 @@ Finally, start your app.
 node index.js
 ```
 
-Now to go [`http://localhost:3000`](http://localhost:3000/) to see our new `Hello world!` response.
+[`http://localhost:3000`](http://localhost:3000/) will now return `Hello world!`.
 
 ---
 
-[Next: Defining a route](../lessons/03-defining-a-route)
+[Next: Static files](../lessons/04-static-files)

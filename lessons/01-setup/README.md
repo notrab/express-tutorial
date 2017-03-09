@@ -7,9 +7,13 @@ mkdir express-tutorial
 cd express-tutorial
 ```
 
-As we're going to be using Node.js and Express. We need to create a `package.json` to store some configuration along with all our dependencies and their versions.
+As we're going to be using Node.js and Express.
 
-You can do this by running `npm init -y`.
+Let's create a `package.json` to store some configuration along with all our dependencies and their versions.
+
+```bash
+npm init -y
+```
 
 ## Installing Express
 

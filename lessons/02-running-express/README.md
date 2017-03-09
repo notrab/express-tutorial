@@ -17,11 +17,17 @@ In the code above, we're assigning `express` to a constant we can initialise lat
 
 On the last line, we've told Express to listen for requests on port `3000`.
 
-Next to execute that code, simply run `node index.js`.
+Next, tell Node to run our application.
+
+```bash
+node index.js
+```
 
 You should see `Example server started on port 3000` printed in your terminal.
 
-Now to go  [`http://localhost:3000`](http://localhost:3000/). You will see `Cannot GET /` returned.
+Now to go  [`http://localhost:3000`](http://localhost:3000/).
+
+You will see `Cannot GET /` returned.
 
 Express is running locally and listening for requests 💯! Next we'll define a route.
 

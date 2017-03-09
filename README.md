@@ -6,4 +6,4 @@ Make sure you've got [Node.js - *(v7.2.0)*](https://nodejs.org) otherwise you wi
 
 ---
 
-[Get Started](./lessons/installation/)
+[Get Started](./lessons/01-setup/)
